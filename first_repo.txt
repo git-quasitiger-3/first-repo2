@@ -2,3 +2,4 @@ hello first-repo!
 2
 fork sync test.
 pull request test.
+PR reject test.
